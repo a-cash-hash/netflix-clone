@@ -1,6 +1,6 @@
 ## 📬 Contact
 Made with ❤️ by **Akash Sarkar**  
-[GitHub](https://github.com/a-cash-hash) | [LinkedIn]([https://www.linkedin.com/in/akash-sarkar](https://www.linkedin.com/in/akash-sarkar-83614b193/))  
+[GitHub](https://github.com/a-cash-hash) | [LinkedIn](https://www.linkedin.com/in/akash-sarkar-83614b193/)  
 
 # 🎬 Netflix Clone
 
